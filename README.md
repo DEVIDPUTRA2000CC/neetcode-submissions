@@ -1,6 +1,8 @@
 # NeetCode Solutions — @DEVIDPUTRA2000CC
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+>
+> 📋 **[Revision Tracker →](revision/README.md)** — pattern-grouped progress table, per-problem notes, and a pre-interview weak list. Lives alongside the auto-sync, doesn't interfere with it.
 
 ---
 
